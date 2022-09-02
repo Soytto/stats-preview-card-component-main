@@ -76,6 +76,7 @@ picture {
 
 img {
     mix-blend-mode:multiply;
+    opacity: 76%;
 }
 
 @media screen and (max-width: 985px) {
